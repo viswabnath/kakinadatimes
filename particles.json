@@ -9,16 +9,16 @@
 "size":{"value": 3,"random": true,"anim": { "enable": false, "speed": 140,"size_min": 0.1,"sync": false}},
 "line_linked": {"enable": true,"distance": 50,"color": "#03AEF5","opacity": 0.2,"width": 2},
 
-"move": {"enable": true,"speed": 0,"direction": "none","random": false,"straight": false,"out_mode": "out","bounce": false,
+"move": {"enable": true,"speed": 20,"direction": "none","random": false,"straight": false,"out_mode": "out","bounce": false,
 "attract": {"enable": false,"rotateX": 600,"rotateY": 1200}}},
 
 "interactivity": {"detect_on": "canvas","events": {"onhover": {"enable": true,"mode": "grab"},
 "onclick": {"enable": true,"mode": "push"},
 "resize": true
 },
-"modes": {"grab": {"distance": 10,"line_linked": {"opacity": 0.7}
+"modes": {"grab": {"distance": 516,"line_linked": {"opacity": 0.7}
 },
-"bubble": {"distance": 100,"size": 40,"duration": 2,"opacity": 8,"speed": 0},
+"bubble": {"distance": 100,"size": 40,"duration": 2,"opacity": 8,"speed": 5},
 "repulse": {"distance": 200,"duration": 10.4},
 "push": {"particles_nb": 40},
 "remove": {"particles_nb": 20}
