@@ -3,4 +3,4 @@ Static Landing page of a Local Website developed using Particle JS Reference fro
 
 
 Visit Page 
-https://viswabnath.github.io/kakinada/
+https://viswabnath.github.io/kakinadatimes/
